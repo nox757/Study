@@ -1,0 +1,7 @@
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\bin\Release\Lab22_reg.exe
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\bin\Release\Lab22_reg.pdb
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\obj\x86\Release\Lab22_reg.Form1.resources
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\obj\x86\Release\Lab22_reg.Properties.Resources.resources
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\obj\x86\Release\Lab22_reg.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\obj\x86\Release\Lab22_reg.exe
+K:\Andrew\Programming\2016\LaPSapr\Lab22_reg\Lab22_reg\obj\x86\Release\Lab22_reg.pdb

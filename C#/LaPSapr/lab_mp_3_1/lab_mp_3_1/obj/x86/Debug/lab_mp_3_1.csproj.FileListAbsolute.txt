@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\bin\Debug\lab_mp_3_1.exe
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\bin\Debug\lab_mp_3_1.pdb
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.csprojResolveAssemblyReference.cache
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.Form1.resources
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.Properties.Resources.resources
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.exe
+K:\Andrew\Programming\2016\LaPSapr\lab_mp_3_1\lab_mp_3_1\obj\x86\Debug\lab_mp_3_1.pdb

@@ -1,0 +1,17 @@
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\bin\Debug\lab2_v2.exe
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\bin\Debug\lab2_v2.pdb
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.Form1.resources
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.Properties.Resources.resources
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.exe
+K:\Andrew\Programming\2016\LaPSapr\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.pdb
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.exe
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.pdb
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\bin\Debug\lab2_v2.exe
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\bin\Debug\lab2_v2.pdb
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.csprojResolveAssemblyReference.cache
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.Form1.resources
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.Properties.Resources.resources
+C:\Andrey\Programming\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\lab2_full_regular\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.exe
+K:\Andrew\Programming\2016\LaPSapr\lab2_full_regular\lab_v2_2\lab2_v2\lab2_v2\obj\x86\Debug\lab2_v2.pdb

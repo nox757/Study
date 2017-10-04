@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\bin\Release\matrixKA.exe
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\bin\Release\matrixKA.pdb
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.Form1.resources
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.Properties.Resources.resources
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.exe
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.pdb
+K:\Andrew\Programming\2016\LaPSapr\matrixKA\matrixKA\obj\x86\Release\matrixKA.csprojResolveAssemblyReference.cache

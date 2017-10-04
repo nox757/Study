@@ -1,0 +1,96 @@
+﻿ // maskedTextBox9
+            // 
+            this.maskedTextBox9.Location = new System.Drawing.Point(180, 96);
+            this.maskedTextBox9.Name = "maskedTextBox9";
+            this.maskedTextBox9.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox9.TabIndex = 9;
+            this.maskedTextBox9.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox8
+            // 
+            this.maskedTextBox8.Location = new System.Drawing.Point(128, 96);
+            this.maskedTextBox8.Name = "maskedTextBox8";
+            this.maskedTextBox8.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox8.TabIndex = 8;
+            this.maskedTextBox8.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox4
+            // 
+            this.maskedTextBox4.Location = new System.Drawing.Point(76, 70);
+            this.maskedTextBox4.Name = "maskedTextBox4";
+            this.maskedTextBox4.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox4.TabIndex = 4;
+            this.maskedTextBox4.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox7
+            // 
+            this.maskedTextBox7.Location = new System.Drawing.Point(76, 96);
+            this.maskedTextBox7.Name = "maskedTextBox7";
+            this.maskedTextBox7.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox7.TabIndex = 7;
+            this.maskedTextBox7.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox5
+            // 
+            this.maskedTextBox5.Location = new System.Drawing.Point(128, 70);
+            this.maskedTextBox5.Name = "maskedTextBox5";
+            this.maskedTextBox5.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox5.TabIndex = 5;
+            this.maskedTextBox5.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox12
+            // 
+            this.maskedTextBox12.Location = new System.Drawing.Point(180, 122);
+            this.maskedTextBox12.Name = "maskedTextBox12";
+            this.maskedTextBox12.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox12.TabIndex = 12;
+            this.maskedTextBox12.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox6
+            // 
+            this.maskedTextBox6.Location = new System.Drawing.Point(180, 70);
+            this.maskedTextBox6.Name = "maskedTextBox6";
+            this.maskedTextBox6.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox6.TabIndex = 6;
+            this.maskedTextBox6.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox11
+            // 
+            this.maskedTextBox11.Location = new System.Drawing.Point(128, 122);
+            this.maskedTextBox11.Name = "maskedTextBox11";
+            this.maskedTextBox11.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox11.TabIndex = 11;
+            this.maskedTextBox11.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox3
+            // 
+            this.maskedTextBox3.Location = new System.Drawing.Point(180, 44);
+            this.maskedTextBox3.Name = "maskedTextBox3";
+            this.maskedTextBox3.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox3.TabIndex = 3;
+            this.maskedTextBox3.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox10
+            // 
+            this.maskedTextBox10.Location = new System.Drawing.Point(76, 122);
+            this.maskedTextBox10.Name = "maskedTextBox10";
+            this.maskedTextBox10.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox10.TabIndex = 10;
+            this.maskedTextBox10.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox2
+            // 
+            this.maskedTextBox2.Location = new System.Drawing.Point(128, 44);
+            this.maskedTextBox2.Name = "maskedTextBox2";
+            this.maskedTextBox2.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox2.TabIndex = 2;
+            this.maskedTextBox2.Enter += maskedTextBox1_Enter;
+            // 
+            // maskedTextBox1
+            // 
+            this.maskedTextBox1.Location = new System.Drawing.Point(76, 44);
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.Size = new System.Drawing.Size(46, 20);
+            this.maskedTextBox1.TabIndex = 1;
+            this.maskedTextBox1.Enter += maskedTextBox1_Enter;
+            // 

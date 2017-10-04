@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\bin\Release\laba2_regular.exe
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\bin\Release\laba2_regular.pdb
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.Form1.resources
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.Properties.Resources.resources
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.exe
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.pdb
+K:\Andrew\Programming\2016\LaPSapr\laba2_regular\laba2_regular\obj\x86\Release\laba2_regular.csprojResolveAssemblyReference.cache
