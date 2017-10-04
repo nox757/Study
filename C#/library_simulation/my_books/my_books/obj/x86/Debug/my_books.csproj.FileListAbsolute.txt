@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.Form1.resources
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.Properties.Resources.resources
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2016\kurs\my_books\my_books\bin\Debug\my_books.exe
+K:\Andrew\Programming\2016\kurs\my_books\my_books\bin\Debug\my_books.pdb
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.exe
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.pdb
+K:\Andrew\Programming\2016\kurs\my_books\my_books\obj\x86\Debug\my_books.csprojResolveAssemblyReference.cache
