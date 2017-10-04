@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\bin\Debug\Laba_Matrix.exe
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\bin\Debug\Laba_Matrix.pdb
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.Form1.resources
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.Properties.Resources.resources
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.exe
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.pdb
+K:\Andrew\Programming\2015\Laba_Matrix\Laba_Matrix\obj\x86\Debug\Laba_Matrix.csprojResolveAssemblyReference.cache

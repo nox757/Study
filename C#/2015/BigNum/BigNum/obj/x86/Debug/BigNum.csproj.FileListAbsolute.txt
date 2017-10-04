@@ -1,0 +1,7 @@
+K:\Andrew\Programming\2015\BigNum\BigNum\bin\Debug\BigNum.exe
+K:\Andrew\Programming\2015\BigNum\BigNum\bin\Debug\BigNum.pdb
+K:\Andrew\Programming\2015\BigNum\BigNum\obj\x86\Debug\BigNum.Form1.resources
+K:\Andrew\Programming\2015\BigNum\BigNum\obj\x86\Debug\BigNum.Properties.Resources.resources
+K:\Andrew\Programming\2015\BigNum\BigNum\obj\x86\Debug\BigNum.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2015\BigNum\BigNum\obj\x86\Debug\BigNum.exe
+K:\Andrew\Programming\2015\BigNum\BigNum\obj\x86\Debug\BigNum.pdb

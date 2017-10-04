@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba1.CommonPool">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAhEAAAAIAQAAAAAAAAAAIAgAAAAAAAAA=</HashCode>
+      <FileName>CommonPool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Form1">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADRAkAFADAAABgABACQAABCAAAAAAAAFAAAoAAABAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Numerator">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Numerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Program">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Queue">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.QueueArr">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAIAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueueArr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.QueueLst">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAIAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueueLst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Request">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Stack">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Stack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.StackArr">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAIAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StackArr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.StackLst">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAIAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StackLst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Properties.Resources">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba1.Properties.Settings">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

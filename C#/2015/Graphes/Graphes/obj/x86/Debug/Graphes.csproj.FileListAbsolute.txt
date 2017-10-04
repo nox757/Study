@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2015\Graphes\Graphes\bin\Debug\Graphes.exe
+K:\Andrew\Programming\2015\Graphes\Graphes\bin\Debug\Graphes.pdb
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.Form1.resources
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.Properties.Resources.resources
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.exe
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.pdb
+K:\Andrew\Programming\2015\Graphes\Graphes\obj\x86\Debug\Graphes.csprojResolveAssemblyReference.cache

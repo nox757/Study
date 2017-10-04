@@ -1,0 +1,8 @@
+K:\Andrew\Programming\2015\fractal\fractal\bin\Debug\fractal.exe
+K:\Andrew\Programming\2015\fractal\fractal\bin\Debug\fractal.pdb
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.Form1.resources
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.Properties.Resources.resources
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.exe
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.pdb
+K:\Andrew\Programming\2015\fractal\fractal\obj\x86\Debug\fractal.csprojResolveAssemblyReference.cache

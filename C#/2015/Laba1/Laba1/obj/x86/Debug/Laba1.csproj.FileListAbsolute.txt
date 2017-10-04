@@ -1,0 +1,7 @@
+K:\Andrew\Programming\2015\Laba1\Laba1\obj\x86\Debug\Laba1.Form1.resources
+K:\Andrew\Programming\2015\Laba1\Laba1\obj\x86\Debug\Laba1.Properties.Resources.resources
+K:\Andrew\Programming\2015\Laba1\Laba1\obj\x86\Debug\Laba1.csproj.GenerateResource.Cache
+K:\Andrew\Programming\2015\Laba1\Laba1\bin\Debug\Laba1.exe
+K:\Andrew\Programming\2015\Laba1\Laba1\bin\Debug\Laba1.pdb
+K:\Andrew\Programming\2015\Laba1\Laba1\obj\x86\Debug\Laba1.exe
+K:\Andrew\Programming\2015\Laba1\Laba1\obj\x86\Debug\Laba1.pdb
